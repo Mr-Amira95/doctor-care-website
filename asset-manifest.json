@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/doctor-care-website/static/css/main.4cb4b649.css",
+    "main.js": "/doctor-care-website/static/js/main.6a1b0e0c.js",
+    "static/js/787.cdf25711.chunk.js": "/doctor-care-website/static/js/787.cdf25711.chunk.js",
+    "static/media/6915987.png": "/doctor-care-website/static/media/6915987.c62e70bd4dba6f07d39c.png",
+    "static/media/doctor_care_logo.png": "/doctor-care-website/static/media/doctor_care_logo.d9782a94642dcd74ddac.png",
+    "index.html": "/doctor-care-website/index.html",
+    "static/media/getFetch.cjs": "/doctor-care-website/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.4cb4b649.css.map": "/doctor-care-website/static/css/main.4cb4b649.css.map",
+    "main.6a1b0e0c.js.map": "/doctor-care-website/static/js/main.6a1b0e0c.js.map",
+    "787.cdf25711.chunk.js.map": "/doctor-care-website/static/js/787.cdf25711.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cb4b649.css",
+    "static/js/main.6a1b0e0c.js"
+  ]
+}
